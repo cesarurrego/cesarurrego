@@ -1,16 +1,23 @@
-### Hi there 👋
+# Cesar Urrego
 
-<!--
-**cesarurrego/cesarurrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+Mobile developer - Flutter specialist, if you need anything, you can find me at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[@caurrego](https://twitter.com/caurregoz)
+
+# Packages
+
+- 🔭 Comming soon
+
+# Apps
+
+- :coffee: [Caffeio](https://github.com/curregoz/caffeio-app)
+
+# Exploring
+
+- :broom: [Flutter Clean Arch with multiple state managements](https://github.com/curregoz/bloc-clean-arch)
+
+- :dollar: [Cripto Watcher](https://github.com/curregoz/crypto_watcher)
+
+- :earth_americas: [Random Flutter Maps App](https://github.com/curregoz/flutter-maps)
