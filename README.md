@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Mobile developer - Flutter specialist, if you need anything, you can find me at
+Let's talk.
 
 [LinkedIn](https://www.linkedin.com/in/cesar-augusto-urrego-zapata-a06a3281/)
 
