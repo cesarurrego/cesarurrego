@@ -4,7 +4,9 @@
 
 Mobile developer - Flutter specialist, if you need anything, you can find me at
 
-[@caurrego](https://twitter.com/caurregoz)
+[LinkedIn](https://www.linkedin.com/in/cesar-augusto-urrego-zapata-a06a3281/)
+
+[Twitter @caurrego](https://twitter.com/caurregoz)
 
 # Packages
 
