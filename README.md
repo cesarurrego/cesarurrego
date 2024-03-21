@@ -29,6 +29,10 @@ Mobile developer - Flutter specialist, if you need anything, you can find me at
 - 🍋 [Lemonade App](https://github.com/cesarurrego/lemonade-app)
 - 🪙 [Tip Calculator](https://github.com/cesarurrego/tip-calculator)
 
+## Kotlin Multiplatform
+
+## Swift
+
 ## React Native
 
 - 🪄 [Harry potter Characters](https://github.com/cesarurrego/harry-potter-react-native)
