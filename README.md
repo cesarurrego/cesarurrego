@@ -19,9 +19,7 @@ Mobile developer - Flutter specialist, if you need anything, you can find me at
 ## Flutter
 
 - :broom: [Flutter Clean Arch with multiple state managements](https://github.com/curregoz/bloc-clean-arch)
-
 - :dollar: [Cripto Watcher](https://github.com/curregoz/crypto_watcher)
-
 - :earth_americas: [Random Flutter Maps App](https://github.com/curregoz/flutter-maps)
 
 ## Android
@@ -39,6 +37,6 @@ Mobile developer - Flutter specialist, if you need anything, you can find me at
 
 ## SpringBoot
 
-- 🔒 [JWT Tokens - Spring boot)(https://github.com/cesarurrego/kotlin-springboot-jwttokens)
+- 🔒 [JWT Tokens - Spring boot](https://github.com/cesarurrego/kotlin-springboot-jwttokens)
 
 ## Micronaut
