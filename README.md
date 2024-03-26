@@ -43,6 +43,8 @@ Let's talk.
 
 ## SpringBoot
 
-- 🔒 [JWT Tokens - Spring boot](https://github.com/cesarurrego/kotlin-springboot-jwttokens)
+- 🔒 [JWT Tokens](https://github.com/cesarurrego/kotlin-springboot-jwttokens)
 
 ## Micronaut
+
+- 👽 [Micronaut Testing](https://github.com/cesarurrego/micronaut-testing)
